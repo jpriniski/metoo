@@ -1,4 +1,4 @@
-# Individual politics affecting views of sexual violence on Twitter
+# Political affiliation and social media responses to sexual violence
 
 This repository consists of the code used by the CCD lab at ASU to study how individul political views affects conceptions of sexual violence in the United States.
 
